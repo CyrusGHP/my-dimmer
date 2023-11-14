@@ -1,5 +1,5 @@
-int sensorPin = A5;
-int LED = 3;
+int sensorPin = A0;
+int LED = 10;
 
 void setup() {
   // put your setup code here, to run once:
@@ -13,5 +13,6 @@ void loop() {
   int brightness = sensorValue * (255.0 / 1023.0);
   Serial.println(brightness);
   analogWrite(LED, brightness);
+  delay(30);
   
 }
