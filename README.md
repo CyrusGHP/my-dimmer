@@ -24,5 +24,5 @@ My dimmer is a simple arduino coding project that allows a person to hava contro
 > applications need you to sign-up for an account in order
 > to access their services so do keep that in mind.
 
-### Quickstart 
+## Quickstart 
 > ** Instructions still Under Construction **
