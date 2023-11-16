@@ -11,7 +11,7 @@ My dimmer is a simple arduino coding project that allows a person to hava contro
 3. Some additional electrical components that you may need are the following:
     - Breadboard
     - 3mm LED
-    - 100Ω, 220Ω or 330Ω Resistor
+    - 220Ω or 330Ω Resistor
     - 10k Potentiometer
     - Jumper wires
     - Dupont Wires
