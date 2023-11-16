@@ -14,7 +14,7 @@ My dimmer is a simple arduino coding project that allows a person to hava contro
     - 220ohm or 330ohm Resistor
     - 10k Potentiometer
     - Jumper wires
-    - Dupont Wires.
+    - Dupont Wires
     
 
 > *Note*: If you don't have any of these components and
